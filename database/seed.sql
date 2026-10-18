@@ -1,0 +1,11 @@
+-- ============================================================================
+-- AeroDesk Operations & Airport Staff Platform
+-- Database Seed Notice
+--
+-- Executable demo data has been relocated out of the base database directory.
+-- Demo and development fixtures are available ONLY in:
+--   database/demo/seed_demo_data.sql
+--
+-- This file contains no executable statements and must never insert demo records
+-- into shared, staging, or production environments.
+-- ============================================================================
