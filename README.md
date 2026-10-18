@@ -61,20 +61,20 @@ AeroDesk organizes airline operations into 15 dedicated workstation panels and m
 │                                  AeroDesk Operations                                   │
 ├──────────────┬─────────────────────────────────────────────────────────────────────────┤
 │ Navigation   │ Active Workstation Screen                                               │
-│ ──────────── │ ─────────────────────────────────────────────────────────────────────── │
-│ • Dashboard  │  [Operations Overview & Fleet Key Performance Indicators]                │
-│ • Flights    │  [Scheduled Flight Tracking, Gate Allocations & Dispatch Lifecycle]    │
+│ ──────────── │ ────────────────────────────────────────────────────────────────────────│
+│ • Dashboard  │  [Operations Overview & Fleet Key Performance Indicators]               │
+│ • Flights    │  [Scheduled Flight Tracking, Gate Allocations & Dispatch Lifecycle]     │
 │ • Booking    │  [Commercial Ticketing, Seat Map Allocation & Payment Recording]        │
-│ • Passengers │  [Passenger Profiles, Travel History & Identity Verification]          │
+│ • Passengers │  [Passenger Profiles, Travel History & Identity Verification]           │
 │ • Check-in   │  [Counter Check-in, Seat Confirmation & Boarding Pass Generation]       │
-│ • Boarding   │  [Gate Boarding Monitor, Pass Validation & Manifest Balancing]           │
-│ • Baggage    │  [10-Digit IATA Bag Tag Generation, Container Routing & Event Scans]   │
+│ • Boarding   │  [Gate Boarding Monitor, Pass Validation & Manifest Balancing]          │
+│ • Baggage    │  [10-Digit IATA Bag Tag Generation, Container Routing & Event Scans]    │
 │ • PIR Claims │  [Property Irregularity Reports & Baggage Compensation Settlements]     │
 │ • IROPS Desk │  [Flight Disruption Declaration, Manifest Reaccommodation & Vouchers]   │
 │ • Trips      │  [Passenger Journey Records, Itinerary Viewer & Digital Barcode Strip]  │
 │ • Payments   │  [Financial Settlement Audit, Method Auditing & Ledger Reconciliation]  │
 │ • Cancel     │  [Ticket Cancellations, Penalty Computations & Seat Inventory Recovery] │
-│ • Reports    │  [Operational Analytics, On-Time Performance & Multi-Category CSV]     │
+│ • Reports    │  [Operational Analytics, On-Time Performance & Multi-Category CSV]      │
 │ • Staff      │  [Staff User Accounts, Role Assignments & Administrative Safeguards]    │
 │ • Settings   │  [Live Database Catalog Inspection, Connection Metadata & Audit Logs]   │
 └──────────────┴─────────────────────────────────────────────────────────────────────────┘
